@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10% 0 0 0;
+  color: rgb(78, 78, 248);
+}
+.error {
+  text-align: center;
+  color: brown;
+}
+.btn {
+  background-color: white;
+  border: 0 white solid;
+  align-content: center;
+}
+span {
+  padding: 10px;
+}
+svg {
+  margin-top: 5px;
+}
