@@ -5,6 +5,6 @@
 * <code>git clone https://github.com/rishavjaiss/fun-with-hooks.git</code>
 * <code>cd fun-with-hooks</code>
 * <code>code .</code>
-* <code>ctrl + "`"</code> in windows and <code>command + "`"</code> in Mac
+* <code>ctrl + ` in windows</code>,<code>command + ` in Mac</code> 
 * <code>npm install</code>
 * <code>npm start</code>
